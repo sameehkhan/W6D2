@@ -5,6 +5,12 @@
   display: flex;
 }
 
+.input > label {
+  display: block;
+  padding: 2px;
+  font-weight: 500;
+}
+
 .submit > button {
   position: relative;
   border-radius: 4px;
@@ -19,5 +25,4 @@
 }
 
 .thumb {
-    
 }
