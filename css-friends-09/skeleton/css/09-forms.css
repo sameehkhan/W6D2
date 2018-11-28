@@ -1,2 +1,6 @@
 /* PHASE 9: Forms */
 
+.form {
+  margin: 0 0 20px 0;
+  display: flex;
+}
